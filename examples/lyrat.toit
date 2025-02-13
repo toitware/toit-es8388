@@ -69,7 +69,6 @@ main:
 
   i2c-device := i2c-bus.device es8388.Es8388.I2C-ADDRESS
 
-
   channel := i2s.Bus
       --master
       --mclk=gpio.Pin MCLK
