@@ -1,0 +1,5 @@
+name: es8388
+description: A driver for the ES8388 audio codec.
+
+environment:
+  sdk: ^2.0.0-alpha.174.1
